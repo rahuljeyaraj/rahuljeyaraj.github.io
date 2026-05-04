@@ -1,0 +1,13 @@
+# GitHub Pages configuration
+# Using the minimal theme as base but overriding with custom index.html
+
+title: Rahul Jeyaraj — Portfolio
+description: Electronics & Embedded Systems Engineer
+url: "https://your-username.github.io"
+
+# No theme needed since index.html is fully custom
+# If you want to use Jekyll minimal theme instead, uncomment:
+# theme: jekyll-theme-minimal
+
+exclude:
+  - README.md
